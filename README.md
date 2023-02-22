@@ -3,16 +3,17 @@ Git Practice
 # Perform this commands 
 
 # As github branch is main and our git branch is master we have to change git branch by 
-  1) git branch -m main
-     mkdir git
-     cd git/
+     mkdir gg
+     cd gg
      git init
-     git clone <ssh-url>
-     ls
-     cd Git/
-     git add Second.txt
-     git commit -m "Final Commit"
-     git push origin main
+     touch d.txt
+     git add .
+     git commit -m "nn"
+     git branch -M main
+     git branch
+     git remote add origin <ssh link>
+     git push -u origin main
+
 
   # Git Stash -- with this we will store our resumed work here
     git stash --- and the file will be stashed 
