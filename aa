@@ -1,17 +1,17 @@
-You have a Power Virtual Agents bot that uses topics to request the email addresses of users.
+A company is implementing Microsoft Dynamics 365 Sales.
 
-Users report that they are prompted for their email address multiple times in the same session.
+Several developers are working on a project at the same time. The company plans to control the code changes while the project is in development. The company requires that the history of the code changes must be retained for auditing purposes.
 
-You need to ensure that the bot requests an email address only once during a session.
+You need to identify the appropriate solution to meet the auditing requirements.
 
-What should you use?
+Which solution should you use?
 
 Select only one answer.
 
-entity
+Power Apps CLI
 
-topic variable
+Azure DevOps
 
-bot variable
+Power Apps solution
 
-system topic
+Power Platform admin center
