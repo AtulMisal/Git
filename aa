@@ -1,19 +1,17 @@
-You create a managed solution in a development environment. The development environment contains new columns in the Account table that are used to store business-critical information.
+You are creating an entity relationship diagram for a project you are working on.
 
-You move the managed solution to the production environment and deploy an update to the solution.
+The diagram must include the following Microsoft Dataverse tables: Account, Contact, Lead, Opportunity, Opportunityproduct, Quote, Quotedetail, Product, and Systemuser.
 
-A bug in the production environment is preventing users from updating account records.
+No custom relationships have been defined.
 
-You need to resolve the bug. The solution must minimize impact to the business and not create solution dependencies.
-
-What should you do?
+Which table has redundant relationships that can be displayed as one to avoid visual clutter?
 
 Select only one answer.
 
-Apply the bug resolution to the managed solution in the production environment.
+Systemuser
 
-Uninstall the solution and then re-install the previous version.
+Account
 
-Resolve the bug in the development environment and redeploy the solution.
+Product
 
-Apply the bug resolution to a new unmanaged solution in the production environment.
+Lead
