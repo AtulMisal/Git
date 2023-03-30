@@ -1,17 +1,15 @@
-A company creates an application. The application requires several variables that must be changed when a solution is promoted among development, test, and production environments.
+A company stores Power Platform customizations in source control.
 
-You need to identify where to store the variables.
+You need to review the changes made to individual components.
 
-Where should you store the variables?
+Which tool should you use?
 
 Select only one answer.
 
-in the components within the solution
+Plug-in Registration
 
-in the tenant’s Power Platform admin center
+Configuration Migration
 
-in the environments’ advanced settings
+Package Deployer
 
-in the solution that contains the components
-
-in the environments’ Power Apps settings
+Solution Packager
