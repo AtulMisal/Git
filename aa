@@ -1,15 +1,19 @@
-A company stores Power Platform customizations in source control.
+You create a managed solution in a development environment. The development environment contains new columns in the Account table that are used to store business-critical information.
 
-You need to review the changes made to individual components.
+You move the managed solution to the production environment and deploy an update to the solution.
 
-Which tool should you use?
+A bug in the production environment is preventing users from updating account records.
+
+You need to resolve the bug. The solution must minimize impact to the business and not create solution dependencies.
+
+What should you do?
 
 Select only one answer.
 
-Plug-in Registration
+Apply the bug resolution to the managed solution in the production environment.
 
-Configuration Migration
+Uninstall the solution and then re-install the previous version.
 
-Package Deployer
+Resolve the bug in the development environment and redeploy the solution.
 
-Solution Packager
+Apply the bug resolution to a new unmanaged solution in the production environment.
