@@ -1,0 +1,17 @@
+You have a Power Virtual Agents bot that uses topics to request the email addresses of users.
+
+Users report that they are prompted for their email address multiple times in the same session.
+
+You need to ensure that the bot requests an email address only once during a session.
+
+What should you use?
+
+Select only one answer.
+
+entity
+
+topic variable
+
+bot variable
+
+system topic
