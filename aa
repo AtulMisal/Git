@@ -1,17 +1,17 @@
-A company is implementing Microsoft Dynamics 365 Sales.
+A company creates an application. The application requires several variables that must be changed when a solution is promoted among development, test, and production environments.
 
-Several developers are working on a project at the same time. The company plans to control the code changes while the project is in development. The company requires that the history of the code changes must be retained for auditing purposes.
+You need to identify where to store the variables.
 
-You need to identify the appropriate solution to meet the auditing requirements.
-
-Which solution should you use?
+Where should you store the variables?
 
 Select only one answer.
 
-Power Apps CLI
+in the components within the solution
 
-Azure DevOps
+in the tenant’s Power Platform admin center
 
-Power Apps solution
+in the environments’ advanced settings
 
-Power Platform admin center
+in the solution that contains the components
+
+in the environments’ Power Apps settings
